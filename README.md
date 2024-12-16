@@ -20,6 +20,14 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 ## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
 
 ## Benefits
+* [Improve the Default Magento Checkout](https://github.com/magefan/magento-checkout-extension#improve-the-default-magento-checkout)
+* [Upload Payment Methods Icons](https://github.com/magefan/magento-checkout-extension#upload-payment-methods-icons)
+* [Define Default Shipping and Payment Methods](https://github.com/magefan/magento-checkout-extension#define-default-shipping-and-payment-methods)
+* [Create a Neat Checkout Page Design](https://github.com/magefan/magento-checkout-extension#create-a-neat-checkout-page-design)
+* [Set Up Billing&Shipping Address Fields Position](https://github.com/magefan/magento-checkout-extension#set-up-billingshipping-address-fields-position)
+* [Let Shoppers Leave Order Order Comments](https://github.com/magefan/magento-checkout-extension#let-shoppers-leave-order-order-comments)
+* [Display Newsletter Subscription Checkbox](https://github.com/magefan/magento-checkout-extension#display-newsletter-subscription-checkbox)
+* [Provide Seamless Checkout for All Users](https://github.com/magefan/magento-checkout-extension#provide-seamless-checkout-for-all-users)
 
 ## Features
 ### Improve the Default Magento Checkout
